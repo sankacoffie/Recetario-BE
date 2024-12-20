@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+requests
+beautifulsoup4
+python-dotenv
